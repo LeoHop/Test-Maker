@@ -1,0 +1,7 @@
+6
+q1, TrueFalse, A cat is a dog, 1, false
+q2, TrueFalse, Cars can drive backwards, 1, true
+q3, MultiChoice, How many pigs can fly, 2, 2, 4, 0, 2, 3
+q4, MultiChoice, How long does it take to get to Mars, 2, 4, 10 days, 98 days, 100-135 days, 150-300 days
+q5, ShortAnswer, Explain what a star is, 3, round, dusty, shiny, space
+q6, ShortAnswer, Describe an Atom, 3, electron, neutron, protron, rings, orbitals
